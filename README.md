@@ -1,0 +1,1 @@
+full-stack web platform providing farmers with crop predictions (Random Forest),  weather forecasts (OpenWeather API), geospatial maps (Leaflet.js) and a marketplace with real-time pricing updates  for selling and buying produce.
