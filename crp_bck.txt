@@ -1,0 +1,6 @@
+crp_bck
+uvicorn main:app --reload
+inc_crp_bck
+node server.js
+main
+python -m http.server 5500
